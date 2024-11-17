@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saidi Mohammed Amine</h1>
+<h1 align="center">Hi 👋, I'm SAIDI MOHAMMED-AMINE</h1>
 <h3 align="center">Devops & Cloud engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidimohammed1&label=Profile%20views&color=0e75b6&style=flat" alt="saidimohammed1" /> </p>
